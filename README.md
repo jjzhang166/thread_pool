@@ -1,5 +1,5 @@
 # thread_pool
-一个简单的线程池的实现<br>
+一个简单的线程池的实现，可用来学习基本线程。<br>
 The simple implement of thread poll.<br> 
 
 ## 1. 线程池的特点： <br>
