@@ -17,3 +17,9 @@ The simple implement of thread poll.<br>
 `Note`: 本质是生产者-消费者模型<br>
 生产者线程向任务队列中添加任务，一旦队列有任务到来，如果有等待线程就唤<br>
 醒来执行任务，如果没有等待线程并且线程数没有达到阈值，就会创建新的线程来执行任务。<br>
+# thread pool with C++
+============
+This is simple implement of thread poll with c++;<br>
+
+## basic theory
+
