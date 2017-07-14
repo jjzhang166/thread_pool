@@ -32,3 +32,16 @@ The simple implement of thread poll.<br>
 
 ## 4.线程池框架
 一般来说实现一个线程池主要包括以下几个部分组成：<br>
+线程池管理器：<br>
+工作线程：<br>
+任务接口：<br>
+任务队列：<br>
+
+## 5.Class
+* CThreadManage
+* CThreadPool
+* CThread
+* CJob
+* CWorkerThread
+* CthreadMutex
+* CCondition
