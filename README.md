@@ -45,3 +45,5 @@ The simple implement of thread poll.<br>
 * CWorkerThread
 * CthreadMutex
 * CCondition
+
+## 6.使用方法
