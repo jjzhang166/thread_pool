@@ -48,7 +48,11 @@ The simple implement of thread poll.<br>
 * CCondition
 
 ## 6.使用方法
+<<<<<<< HEAD
 =======
+=======
+
+>>>>>>> 4ea4822e1ffb7412df0dfb36e88fe779129adb4a
 # thread pool with C++
 --------------------
 This is simple implement of thread poll with c++;<br>
@@ -67,4 +71,7 @@ This is simple implement of thread poll with c++;<br>
     实现这种结构有好几种方法，最常用的是队列，主要利用队列的先进先出的工作原理。另一种是链表之类的<br>
     数据结构，可以动态为它分配内存，应用中比较灵活。<br>
 ## funciton and struct
+<<<<<<< HEAD
 >>>>>>> poolcpp
+=======
+>>>>>>> 4ea4822e1ffb7412df0dfb36e88fe779129adb4a
